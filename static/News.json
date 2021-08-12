@@ -1,0 +1,134 @@
+{
+  "news":[
+    {
+      "id": 1,
+      "title": "buttermilk pancakes",
+      "tab": "News",
+      "price": 15.99,
+      "img": "static/images/fpxteam.png",
+      "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed ",
+      "availableItem":4,
+      "inCart":0
+    },
+    {
+      "id": 2,
+      "title": "dinner double",
+      "tab": "Media",
+      "price": 13.99,
+      "img": "static/images/item-2.jpeg",
+      "desc": "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats ",
+      "availableItem":5,
+      "inCart":0
+    },
+    {
+      "id": 3,
+      "title": "godzilla milkshake",
+      "tab": "Achieve",
+      "price": 6.99,
+      "img": "static/images/item-3.jpeg",
+      "desc": "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.",
+      "availableItem":3,
+      "inCart":0
+    },
+    {
+      "id": 4,
+      "title": "country delight",
+      "tab": "Games",
+      "price": 20.99,
+      "img": "static/images/item-4.jpeg",
+      "desc": "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, ",
+      "availableItem":4,
+      "inCart":0
+    },
+    {
+      "id": 5,
+      "title": "egg attack",
+      "tab": "Shop",
+      "price": 22.99,
+      "img": "static/images/item-5.jpeg",
+      "desc": "franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up ",
+      "availableItem":2,
+      "inCart":0
+    },
+    {
+      "id": 6,
+      "title": "buttermilk pancakes",
+      "tab": "News",
+      "price": 15.99,
+      "img": "static/images/fpxteam.png",
+      "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed ",
+      "availableItem":4,
+      "inCart":0
+    },
+    {
+      "id": 7,
+      "title": "buttermilk pancakes",
+      "tab": "News",
+      "price": 15.99,
+      "img": "static/images/fpxteam.png",
+      "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed ",
+      "availableItem":4,
+      "inCart":0
+    },
+    {
+      "id": 8,
+      "title": "buttermilk pancakes",
+      "tab": "News",
+      "price": 15.99,
+      "img": "static/images/fpxteam.png",
+      "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed ",
+      "availableItem":4,
+      "inCart":0
+    },
+    {
+      "id": 9,
+      "title": "buttermilk pancakes",
+      "tab": "News",
+      "price": 15.99,
+      "img": "static/images/fpxteam.png",
+      "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed ",
+      "availableItem":4,
+      "inCart":0
+    },
+    {
+      "id": 10,
+      "title": "buttermilk pancakes",
+      "tab": "News",
+      "price": 15.99,
+      "img": "static/images/fpxteam.png",
+      "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed ",
+      "availableItem":4,
+      "inCart":0
+    },
+    {
+      "id": 11,
+      "title": "buttermilk pancakes",
+      "tab": "News",
+      "price": 15.99,
+      "img": "static/images/fpxteam.png",
+      "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed ",
+      "availableItem":4,
+      "inCart":0
+    },
+    {
+      "id": 12,
+      "title": "buttermilk pancakes",
+      "tab": "News",
+      "price": 15.99,
+      "img": "static/images/fpxteam.png",
+      "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed ",
+      "availableItem":4,
+      "inCart":0
+    },
+    {
+      "id": 13,
+      "title": "buttermilk pancakes",
+      "tab": "News",
+      "price": 15.99,
+      "img": "static/images/fpxteam.png",
+      "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed ",
+      "availableItem":4,
+      "inCart":0
+    }
+  ]
+}
